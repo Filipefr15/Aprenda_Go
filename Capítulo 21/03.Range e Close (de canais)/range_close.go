@@ -18,7 +18,7 @@ func meuloop(t int, s chan<- int) {
 	for i := 0; i < t; i++ {
 		s <- i
 	}
-	//close(s)
+	close(s)
 }
 
 //gofunc com for loop com send e close(chan)
