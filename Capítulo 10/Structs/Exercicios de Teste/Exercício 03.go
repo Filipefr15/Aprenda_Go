@@ -17,7 +17,7 @@ type sedan struct {
 	modeloLuxo bool
 }
 
-func main() {
+func exercicio03() {
 	toro := caminhonete{
 		veiculo: veiculo{
 			portas: "quatro",

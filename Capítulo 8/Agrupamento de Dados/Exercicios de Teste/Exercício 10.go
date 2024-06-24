@@ -2,16 +2,16 @@ package main
 
 import "fmt"
 
-func main() {
+func Exercicio10() {
 
 	pessoas := map[string][]string{
-		"filipe_rodrigues": []string{
+		"filipe_rodrigues": {
 			"sei lá",
 		},
-		"ayrton_senna": []string{
+		"ayrton_senna": {
 			"pilotar aviao", "andar de carro",
 		},
-		"nicole_alves": []string{
+		"nicole_alves": {
 			"ver filmes",
 		},
 	}

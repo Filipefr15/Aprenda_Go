@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func makeSlice() {
 
 	//slice := make([]int, 10, 10)
 	slice := new([10]int)[0:10]

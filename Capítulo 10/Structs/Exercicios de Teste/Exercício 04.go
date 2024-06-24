@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func exercicio04() {
 
 	x := struct {
 		nome      string

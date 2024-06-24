@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func mapsrangedelete() {
 
 	qualquercoisa := map[int]string{
 		123: "legal",

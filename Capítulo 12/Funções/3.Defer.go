@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func maindefer() {
 
 	//defer quer dizer "deixa pra depois", "deixa pra ultima hora"
 	//defer é "first in last out"

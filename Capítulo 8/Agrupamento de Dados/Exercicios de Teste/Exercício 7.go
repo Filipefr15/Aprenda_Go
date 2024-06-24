@@ -2,11 +2,11 @@ package main
 
 import "fmt"
 
-func main() {
+func Exercicio7() {
 	multislices := [][]string{
-		[]string{"Filipe", "Rodrigues", "Filmes"},
-		[]string{"Filipe2", "Rodrigues2", "Tênis"},
-		[]string{"Filipe3", "Rodrigues3", "Basquete"},
+		{"Filipe", "Rodrigues", "Filmes"},
+		{"Filipe2", "Rodrigues2", "Tênis"},
+		{"Filipe3", "Rodrigues3", "Basquete"},
 	}
 
 	for _, v := range multislices {

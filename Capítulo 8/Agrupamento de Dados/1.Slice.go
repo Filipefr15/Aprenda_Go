@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func Slice() {
 	slice := []string{"banana", "maçã", "jaca"}
 	for índice, valor := range slice {
 		fmt.Println("No índice", índice, "temos o valor:", valor)

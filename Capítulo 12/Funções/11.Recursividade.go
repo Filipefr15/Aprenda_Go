@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func mainrecursividade() {
 	fmt.Println(fatorial(4))
 	fmt.Println(loops(4))
 }

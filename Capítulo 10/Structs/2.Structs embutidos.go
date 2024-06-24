@@ -13,7 +13,7 @@ type profissional struct {
 	salario int
 }
 
-func main() {
+func mainsStrucsEmbutidos() {
 	pessoa1 := pessoa{
 		nome:      "Filipe",
 		sobrenome: "Rodrigues",

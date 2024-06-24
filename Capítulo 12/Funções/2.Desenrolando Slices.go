@@ -2,14 +2,14 @@ package main
 
 import "fmt"
 
-func main() {
+func desenslices() {
 
 	si := []int{1, 2, 3, 4, 5}
-	somando := soma(si...)
+	somando := somaint(si...)
 	fmt.Println(somando)
 }
 
-func soma(x ...int) int {
+func somaint(x ...int) int {
 	soma := 0
 	for _, v := range x {
 		soma += v

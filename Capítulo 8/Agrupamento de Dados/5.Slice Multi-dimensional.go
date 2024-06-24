@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func multislice() {
 
 	sliceofslices := [][]int{
 		//Índice      0, 1, 2

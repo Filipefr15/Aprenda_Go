@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func Jslices() {
 
 	umaslice := []int{1, 2, 3, 4}
 	anotherslice := []int{9, 10, 11, 12}

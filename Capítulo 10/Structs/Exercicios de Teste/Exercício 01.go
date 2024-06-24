@@ -8,7 +8,7 @@ type pessoa struct {
 	sabores   []string
 }
 
-func main() {
+func exercicio01() {
 
 	pessoa1 := pessoa{
 		nome:      "Filipe",

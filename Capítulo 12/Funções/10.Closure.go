@@ -4,7 +4,7 @@ import "fmt"
 
 //Closure: capturar/cercar um scope para utilizar somente quando quiser
 
-func main() {
+func mainclosure() {
 
 	a := i()
 

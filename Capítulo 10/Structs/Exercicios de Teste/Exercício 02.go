@@ -2,36 +2,36 @@ package main
 
 import "fmt"
 
-type pessoa struct {
+type pessoas struct {
 	nome      string
 	sobrenome string
 	sabores   []string
 }
 
-func main() {
+func exercicio02() {
 
-	meumapa := make(map[string]pessoa)
+	meumapa := make(map[string]pessoas)
 
-	//meumapa2 := map[string]pessoa{
+	//meumapa2 := map[string]pessoas{
 	//	"Rodrigues": pessoa{
 	//		nome:      "Filipe",
 	//		sobrenome: "Rodrigues",
 	//		sabores:   []string{"Ninho trufado", "Cream cheese", "Morango"},
 	//	},
-	//	"Rodrigues2": pessoa{
+	//	"Rodrigues2": pessoas{
 	//		nome:      "Filipe2",
 	//		sobrenome: "Rodrigues2",
 	//		sabores:   []string{"Pizza", "Pêssego", "Abobrinha"},
 	//	},
 	//}
 
-	meumapa["Rodrigues"] = pessoa{
+	meumapa["Rodrigues"] = pessoas{
 		nome:      "Filipe",
 		sobrenome: "Rodrigues",
 		sabores:   []string{"Ninho trufado", "Cream cheese", "Morango"},
 	}
 
-	meumapa["Rodrigues2"] = pessoa{
+	meumapa["Rodrigues2"] = pessoas{
 		nome:      "Filipe2",
 		sobrenome: "Rodrigues2",
 		sabores:   []string{"Pizza", "Pêssego", "Abobrinha"},

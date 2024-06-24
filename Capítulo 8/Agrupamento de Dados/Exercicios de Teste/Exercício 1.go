@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func Ex1() {
 
 	arrayqualquer := [5]int{10, 20, 30, 40, 50}
 

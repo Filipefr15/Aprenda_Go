@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func maps() {
 
 	amigos := map[string]int{
 		"alfredo": 12345644,

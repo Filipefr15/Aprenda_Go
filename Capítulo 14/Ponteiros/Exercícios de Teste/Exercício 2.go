@@ -8,7 +8,7 @@ type pessoa struct {
 	idade     int
 }
 
-func main() {
+func mainex2() {
 
 	pessoaGenerica := pessoa{
 		nome:      "Filipe",

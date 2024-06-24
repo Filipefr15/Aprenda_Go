@@ -11,7 +11,7 @@ func (p pessoa) oibomdia() {
 	fmt.Println(p.nome, "diz bom dia!")
 }
 
-func main() {
+func mainmetodos() {
 
 	//Método é uma função anexada a um tipo
 	//func (receiver) identifier(parameters) (returns) { code }

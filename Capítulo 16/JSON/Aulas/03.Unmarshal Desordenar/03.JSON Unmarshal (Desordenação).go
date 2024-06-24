@@ -27,6 +27,7 @@ func main() {
 	fmt.Println(jamesbond.Profissao)
 }
 
+/**
 package main
 
 import "os"
@@ -53,3 +54,4 @@ func main() {
 	encoder.Encode(jamesbond)
 
 }
+*/

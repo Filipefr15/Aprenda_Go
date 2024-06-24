@@ -8,7 +8,7 @@ type cliente struct {
 	fumante   bool
 }
 
-func main() {
+func mainStruct() {
 	cliente1 := cliente{
 		nome:      "Filipe",
 		sobrenome: "Rodrigues",

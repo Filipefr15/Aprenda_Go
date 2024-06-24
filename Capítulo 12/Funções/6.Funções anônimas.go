@@ -2,10 +2,10 @@ package main
 
 import "fmt"
 
-func main() {
+func mainanom() {
 
-//Declarou e chamou a função ao mesmo tempo.
-//Descartavel, so vai rodar uma vez
+	//Declarou e chamou a função ao mesmo tempo.
+	//Descartavel, so vai rodar uma vez
 	x := 10
 
 	func(x int) {

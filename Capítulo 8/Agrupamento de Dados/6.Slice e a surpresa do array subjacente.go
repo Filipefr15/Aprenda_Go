@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func slicesurpresa() {
 
 	primeiroslice := []int{1, 2, 3, 4, 5}
 
