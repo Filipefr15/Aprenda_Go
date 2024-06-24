@@ -1,0 +1,30 @@
+package main
+
+import (
+	"fmt"
+	"sort"
+)
+
+func main() {
+
+	ss := []string{"ola", "mundo", "next", "level"}
+	sort.Strings(ss)
+	fmt.Println(ss)
+
+}
+
+package main
+
+import (
+	"fmt"
+	"sort"
+)
+
+func main() {
+
+	ss := []int{10, 55, 987, 874, 457, 456, 781, 454, 1, 255, 44, 784, 84848, 56, 151, 212, 4, 12, 4, 2, 2, 4, 546, 4, 687, 6, 84, 786, 7, 67, 8, 68, 7, 687, 6, 87, 87, 68, 78, 67, 6}
+	sort.Ints(ss)
+	fmt.Println(ss)
+
+}
+

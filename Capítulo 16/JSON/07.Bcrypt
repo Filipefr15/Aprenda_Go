@@ -1,0 +1,8 @@
+- É uma maneira de encriptar senhas utilizando hashes.
+- x/crypto/bcrypt
+    - GenerateFromPassword
+    - CompareHashAndPassword
+- Sem Go Playground!
+    - go get golang.org/x/crypto/bcrypt
+- Arquivo: https://github.com/ellenkorbes/aprend...
+(não tem como rodar no go playground, testar quando for começar a utilizar o vscode)
