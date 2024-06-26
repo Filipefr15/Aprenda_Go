@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=lf2MOu_dIxA&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg&index=174
+- Documentação da standard library e outros
+- Como colocar a documentação do seu package no godoc.org
+- refresh, delete
