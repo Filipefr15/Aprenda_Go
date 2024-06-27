@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=p5ihn7ou608&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg&index=182
+- gofmt: formata o código
+- go vet: correctness → procura constructs suspeitos
+- golint: suggestions → procura coding style ruim
