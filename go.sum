@@ -1,0 +1,4 @@
+github.com/Filipefr15/Aprenda_Go v0.0.0-20240705203457-6592418e7791 h1:nKet8LZsOM2fhJVanNdibiHHntN29wrEA5HCt0kdqqo=
+github.com/Filipefr15/Aprenda_Go v0.0.0-20240705203457-6592418e7791/go.mod h1:WqH6yK+E7ohsOM+ssRva/bwqWSOZSH5nKFV+FToUEAo=
+golang.org/x/exp v0.0.0-20240707233637-46b078467d37 h1:uLDX+AfeFCct3a2C7uIWBKMJIR3CJMhcgfrUAqjRK6w=
+golang.org/x/exp v0.0.0-20240707233637-46b078467d37/go.mod h1:M4RDyNAINzryxdtnbRXRL/OHtkFuWGRjvuhBJpk2IlY=
